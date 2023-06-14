@@ -11,6 +11,8 @@ namespace MathLaborationFirst
             FirstLaboration.Result();
             Console.WriteLine("Друга лабораторна:"+"\nМетод прямокутникiв" + "\tIntegral0^1cos(x^3+2x^2 )dx,n=20");
             SecondLaboration.Result();
+            Console.WriteLine("Третя лабораторна:" + "\nЗа формулою методу Ейлера");
+            ThirdLabortion.Result();
         }
     }
 
